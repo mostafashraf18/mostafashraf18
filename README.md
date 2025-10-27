@@ -24,6 +24,6 @@ I'm a highly motivated **Computer Science** graduate with a GPA of 3.21 and an a
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | **Python** (Experienced), Java, C, C++ (Familiar) | GoLang | TypeScript
-| **Frameworks/DB** | **MySQL**, Shell (Experienced), Flask, Django, Node.js, **Tensorflow** (Familiar) | Kubernetes (K8s), Docker | PostgreSQL, Redis |& APIs	RESTful APIs, System Design
-| **Cloud/DevOps** | **AWS**, **GoogleCloud**, **Git & GitHub**, CI/CD | Agile Methodology (Scrum/Kanban), Communication | Debugging
+| **Languages** | **Python** (Experienced), Java, C, C++ (Familiar) | GoLang | TypeScript|
+| **Frameworks/DB** | **MySQL**, Shell (Experienced), Flask, Django, Node.js, **Tensorflow** (Familiar) | Kubernetes (K8s), Docker | PostgreSQL, Redis |& APIs	RESTful APIs, System Design|
+| **Cloud/DevOps** | **AWS**, **GoogleCloud**, **Git & GitHub**, CI/CD | Agile Methodology (Scrum/Kanban), Communication | Debugging|
