@@ -17,7 +17,7 @@ I'm a highly motivated **Computer Science** graduate with a GPA of 3.21 and an a
     * **Meta Social Media Marketing Professional Program** (2022).
 - **📫 How to reach me:**
     * **Email**: ma2963629@gmail.com
-    * **LinkedIn**: (Add your LinkedIn URL here)
+    * **LinkedIn**: www.linkedin.com/in/mostafaashraf23
 ---
 
 ### **Tech Stack Highlights**
